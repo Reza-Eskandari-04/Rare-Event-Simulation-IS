@@ -28,6 +28,7 @@ This repository contains the mathematical justification and Python implementatio
 
 ##  Key Results
 The **Log-Log plot** of the Standard Error vs. Sample Size ($N$) mathematically proves that while both SMC and IS share the same convergence rate of $\mathcal{O}(N^{-0.5})$, Importance Sampling drastically reduces the initial variance (y-intercept), making it the only viable solution for rare-event simulations.
+![Log-Log Convergence Plot](log_log_plot.png)
 
 ---
 *Developed as a University Project for Computer Simulation Course.*
