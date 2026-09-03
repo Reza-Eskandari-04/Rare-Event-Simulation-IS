@@ -3,6 +3,9 @@
 ##  Project Overview
 This project focuses on simulating and estimating **Rare Events** (events with very low probabilities, typically $< 5\%$) using advanced statistical simulation techniques. The project evaluates the pH level of a Water Potability dataset to predict extreme acidic or alkaline critical conditions.
 
+**Coursework for**: Computer Simulation (Dr. Amirhosseion Ghatari)
+
+
 ##  Methodologies Implemented
 This repository contains the mathematical justification and Python implementation of three core simulation algorithms:
 
